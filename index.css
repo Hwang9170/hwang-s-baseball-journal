@@ -1,0 +1,21 @@
+body {
+  margin: 0; /* body의 기본 마진 초기화 */
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.play{
+  margin: 10px;
+  
+}
+
+.textcenter {
+  text-align: center;
+}
