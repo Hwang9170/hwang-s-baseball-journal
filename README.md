@@ -10,4 +10,8 @@
 <b>우승</b>을 향한 발걸음 기록으로 남기기로 했습니다.<br>
 최 강 기 아 타 이 거 즈 
 파 이 팅 
+<br> 
+<br> 
+<hr> 
+<b>웹 사이트 링크</b>
 https://hwang-baseball-journal.vercel.app/
