@@ -133,3 +133,7 @@ a {
 /*   text-decoration-line: line-through; */
 /*   text-decoration-line: underline line-through overline; */
 }
+
+.center{
+  text-align: center;
+}
